@@ -59,3 +59,7 @@ Ejemplo del proyecto actual
 
 git clone https://github.com/paucoro/book.git
 ```
+
+Al momento de ingresar el comando y dar **Enter** se descargara el proyecto en tu computadora.
+
+Para poder ingresar el comando puedes ejecutar el comando **cd <Nombre de la carpeta>**
