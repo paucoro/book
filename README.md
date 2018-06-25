@@ -21,6 +21,11 @@ Ejemplo
 
 cd Proyectos
 ```
+#### Regresar a una carpeta anterior
+
+```
+cd ..
+```
 
 #### Crear una carpeta
 
