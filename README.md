@@ -2,7 +2,7 @@
 
 ## Inicio :dog:
 
-Esto es una guia para poder aprender los comandos existentes para manerar archivos en la terminal y los comandos basicos de Git.
+Esto es una guia para poder aprender los comandos basicos para manerar archivos en la terminal y los comandos basicos de Git.
 
 ### Comandos para moverse en la terminal
 
@@ -50,7 +50,7 @@ rm -rf Proyectos
 ### Comandos de Git
 
 #### 1er camino, clonar un proyecto existente
-Si lo que quieres el clonar un proyecto existente en tu computadora el comando sería
+Si lo que quieres es clonar un proyecto existente en tu computadora el comando sería
 
 ```
 git clone <URL>
@@ -66,3 +66,49 @@ Al momento de ingresar el comando y dar **Enter** se descargara el proyecto en t
 
 Para poder ingresar a la carpeta puedes ejecutar el comando **cd book**, donde **book** es un ejemplo del
 nombre de la carpeta.  
+
+#### Subir cambios a mi proyecto de Github
+
+Existen tres pasos para poder subir cambios a mi proyecto de Git.
+
+1. git add ( agregar archivos a mi commit )
+2. git commmit -m "" ( nombrar el commit, que hicimos )
+3. git push ( subir cambios a mi proyecto en Git )
+
+#### Agregar archivos a tu commit
+
+##### Agregar un archivo
+
+```
+git add <archivo>
+
+Ejemplo
+
+git add README.md
+```
+
+##### Agregar todos los archivos
+
+```
+git add .
+```
+
+#### Crear commit
+
+```
+git commit -m "Aquí va los cambios que hice"
+```
+
+#### Subir mis cambios
+
+```
+git push
+```
+
+Algunas veces Git no te dejara subir cambios ya que alguien mas subío cambios y necesitas estar actualizado y bajar cambios para ello.
+
+El comando para bajar los cambios existentes es
+
+```
+git pull
+```
