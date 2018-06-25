@@ -1,10 +1,10 @@
 # Book Paulina
 
-## Inicio
+## Inicio :dog:
 
-Guia para poder manejar comandos en terminal
+Esto es una guia para poder aprender los comandos existentes para manerar archivos en la terminal y los comandos basicos de Git.
 
-### Comandos para moverse en la linea de Comandos
+### Comandos para moverse en la terminal
 
 #### Ver los archivos y carpetas donde te encuentras
 
@@ -64,5 +64,5 @@ que dice Clone or Download, al dar click te abrira un input con la URL en donde 
 
 Al momento de ingresar el comando y dar **Enter** se descargara el proyecto en tu computadora.
 
-Para poder ingresar el comando puedes ejecutar el comando **cd book**, donde **book** es un ejemplo del
-nombre de la carpeta.
+Para poder ingresar a la carpeta puedes ejecutar el comando **cd book**, donde **book** es un ejemplo del
+nombre de la carpeta.  
