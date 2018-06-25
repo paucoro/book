@@ -11,3 +11,23 @@ Guia para poder manejar los comandos de Git
 ```
 ls
 ```
+
+#### Moverse entre carpetas
+
+```
+cd <Nombre de la carpeta>
+
+Ejemplo
+
+cd Proyectos
+```
+
+#### Crear una carpeta
+
+```
+mkdir <Nombre de la carpeta>
+
+Ejemplo
+
+mkdir carpeta1
+```
