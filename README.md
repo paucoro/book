@@ -59,8 +59,10 @@ Ejemplo del proyecto actual
 
 git clone https://github.com/paucoro/book.git
 ```
+La URL del proyecto la puedes encontrar dentro del proyecto en Github, al inicio viene un botón verde
+que dice Clone or Download, al dar click te abrira un input con la URL en donde tu solo tendras que copiar su contenido.
 
 Al momento de ingresar el comando y dar **Enter** se descargara el proyecto en tu computadora.
 
-Para poder ingresar el comando puedes ejecutar el comando **cd book**, donde book es un ejemplo del
+Para poder ingresar el comando puedes ejecutar el comando **cd book**, donde **book** es un ejemplo del
 nombre de la carpeta.
