@@ -18,7 +18,7 @@ La forma en que se estructura una etiqueta HTML es:
 <NOMBRE_ETIQUETA></NOMBRE_ETIQUETA>
 ```
 
-:grey_exclamation: Donde podemos ver que una **etiqueta** en casi todos los casos siempre tiene **una apertura y un cierre** representada:
+:grey_exclamation: Donde podemos observar que una **etiqueta** en casi todos los casos siempre tiene **una apertura y un cierre** representada:
 
 * **< APERTURA >** por medio del nombre de la etiqueta dentro de **<>**.
 * **< CIERRE >** por medio del nombre de la etiqueta dentro de **<>**, pero en este caso se agrega un **/** antes del nombre de la **etiqueta**.
@@ -33,7 +33,7 @@ Para poder representar un atributo en una etiqueta HTML se estructura de la sigu
 <NOMBRE_ETIQUETA ATRIBUTO="VALOR_DEL_ATRIBUTO"></NOMBRE_ETIQUETA>
 ```
 
-:grey_exclamation: Donde podemos ver que el atributo **contiene un valor** (aunque no siempre es así) y ademas que el atributo se **agrega en la apertura de nuestra etiqueta**.
+:grey_exclamation: Donde podemos observar que el atributo **contiene un valor** (aunque no siempre es así) y ademas que el atributo se **agrega en la apertura de nuestra etiqueta**.
 
 Existen muchos atributos especificos para diferentes tipos de etiquetas que tienen diferente funcionamiento, [Aquí hay un enlace donde podrás ver una lista de atributos para las etiquetas ](https://developer.mozilla.org/es/docs/Web/HTML/Atributos), aunque con el transcurso del curso podrás ir viendo los principales atributos que usan diferentes etiquetas.
 
