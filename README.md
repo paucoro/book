@@ -55,4 +55,6 @@ Las **etiquetas** pueden contener valores tanto texto como otras **etiquetas HTM
 :grey_exclamation: Este tipo de anidación puede extenderse no importa en nivel de profundidad que se quiera, en donde el padre tiene un nivel de jerarquizacion sobre el hijo,
 existen etiquetas que necesitan de otras, depende de la etiqueta y su significado.
 
-#### - Estructura basica de un elemento HTML
+#### - Estructura basica de un archivo HTML5
+
+[ Link de la estructura basica de un documento en HTML5 ](https://github.com/paucoro/book/wiki/Estructura-b%C3%A1sica-de-un-documento-HTML5)
