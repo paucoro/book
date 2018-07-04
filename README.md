@@ -4,6 +4,8 @@
 
 ### HTML
 
+#### - Etiquetas
+
 **HTML** determina el contenido de tu página web.
 
 Estructurar un sitio web con HTML es parecido a un **árbol**, en donde se puede extender el contenido sin importar el nivel de profundidad, en donde un elemento puede tener N número de hijos ( elementos dentro de el ).
@@ -47,3 +49,5 @@ Las **etiquetas** pueden contener valores tanto texto como otras **etiquetas HTM
 
 :grey_exclamation: Este tipo de anidación puede extenderse no importa en nivel de profundidad que se quiera, en donde el padre tiene un nivel de jerarquizacion sobre el hijo,
 existen etiquetas que necesitan de otras, depende de la etiqueta y su significado.
+
+#### - Estructura basica de un elemento HTML
