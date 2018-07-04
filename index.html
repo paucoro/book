@@ -7,9 +7,60 @@
   <title></title>
   <meta name="description" content="">
   <meta name="author" content="">
+  <style type="text/css">
+  	body {
+  		margin: 0px;
+  	}
+  	ul {
+  		margin: 0px;
+  		padding: 0px;
+  		list-style: none;
+  	}
+
+  	.header {
+  		background-color: tomato;
+  		color: #fff;
+  		display: flex;
+  		justify-content: space-between;
+  		align-items: center;
+  		padding: 0px 10px;
+  	}
+  	.header--logo {
+  		width: 100px;
+  	}
+  	.header--logo img{
+  		width: 100%;
+  	}
+  	.header--nav__list{
+  		display: flex;
+  	}
+  	.header--nav__list li{
+  		margin: 10px;
+  	}
+  	.header--nav__list li:hover{
+  		border-bottom: 1px solid white;
+  	}
+  </style>
 </head>
 
 <body>
+	<header class="header">
+		<div class="header--logo">
+			<img src="http://pluspng.com/img-png/pikachu-face-png-file-pikachu-smiling-png-256.png" alt="Inicio Pikachi">
+		</div>
+		<nav>
+			<ul class="header--nav__list">
+				<li>
+					<span role="a">Short</span>
+				</li>
+				<li>Teams</li>
+				<li>Community</li>
+				<li>Jobs</li>
+				<li>Hiring</li>
+				<li>Màs</li>
+			</ul>
+		</nav>
+	</header>
 </body>
 
 </html>
