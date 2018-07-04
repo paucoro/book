@@ -57,7 +57,7 @@ Las **etiquetas** pueden contener valores tanto texto como otras **etiquetas HTM
 </NOMBRE_ETIQUETA>
 ```
 
-:grey_exclamation: Este tipo de anidación puede extenderse no importa en nivel de profundidad que se quiera, en donde el padre tiene un nivel de jerarquizacion sobre el hijo,
+:grey_exclamation: Este tipo de anidación puede extenderse no importa el nivel de profundidad que se requiera, en donde el padre tiene un nivel de jerarquizacion sobre el hijo,
 existen etiquetas que necesitan de otras, depende de la etiqueta y su significado.
 
 ---
