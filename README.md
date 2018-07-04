@@ -5,6 +5,9 @@
 ### HTML
 
 * [ - Etiquetas ](https://github.com/paucoro/book#--etiquetas)
+* [ - Atributos en las etiquetas HTML ](https://github.com/paucoro/book#--atributos-en-las-etiquetas-html)
+* [ - Elementos hijos dentro de etiquetas HTML ](https://github.com/paucoro/book#--elementos-hijos-dentro-de-etiquetas-html)
+* [ - Estructura basica de un elemento HTML ](https://github.com/paucoro/book#--estructura-basica-de-un-elemento-html)
 
 #### - Etiquetas
 
