@@ -9,6 +9,7 @@
 * [ - Elementos hijos dentro de etiquetas HTML ](https://github.com/paucoro/book#--paperclip-elementos-hijos-dentro-de-etiquetas-html)
 * [ - Estructura basica de un elemento HTML ](https://github.com/paucoro/book#--paperclip-estructura-basica-de-un-archivo-html5)
 
+---
 #### - :paperclip: Etiquetas
 
 **HTML** determina el contenido de tu página web.
