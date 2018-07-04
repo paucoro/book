@@ -28,7 +28,7 @@ La forma en que se estructura una etiqueta HTML es:
 * **< APERTURA >** por medio del nombre de la etiqueta dentro de **<>**.
 * **< CIERRE >** por medio del nombre de la etiqueta dentro de **<>**, pero en este caso se agrega un **/** antes del nombre de la **etiqueta**.
 
-#### - Atributos en las etiquetas HTML
+#### - :paperclip: Atributos en las etiquetas HTML
 
 Las **etiquetas** pueden contener **N número de Atributos**, los **atributos** son valores adicionales que configuran o modifican el elemento de nuestras etiquetas para cumplir diferentes criterios.
 
@@ -42,7 +42,7 @@ Para poder representar un atributo en una etiqueta HTML se estructura de la sigu
 
 Existen muchos atributos especificos para diferentes tipos de etiquetas que tienen diferente funcionamiento, [Aquí hay un enlace donde podrás ver una lista de atributos para las etiquetas ](https://developer.mozilla.org/es/docs/Web/HTML/Atributos), aunque en el transcurso del curso podrás ir viendo los principales atributos que usan diferentes etiquetas.
 
-#### - Elementos hijos dentro de etiquetas HTML
+#### - :paperclip: Elementos hijos dentro de etiquetas HTML
 
 Las **etiquetas** pueden contener valores tanto texto como otras **etiquetas HTML**.
 
@@ -55,6 +55,6 @@ Las **etiquetas** pueden contener valores tanto texto como otras **etiquetas HTM
 :grey_exclamation: Este tipo de anidación puede extenderse no importa en nivel de profundidad que se quiera, en donde el padre tiene un nivel de jerarquizacion sobre el hijo,
 existen etiquetas que necesitan de otras, depende de la etiqueta y su significado.
 
-#### - Estructura basica de un archivo HTML5
+#### - :paperclip: Estructura basica de un archivo HTML5
 
 [ Link de la estructura basica de un documento en HTML5 ](https://github.com/paucoro/book/wiki/Estructura-b%C3%A1sica-de-un-documento-HTML5)
