@@ -23,7 +23,7 @@ Todo nuestro sitio web esta compuesto de **etiquetas HTML**( elemento ), la form
 
 #### Atributos en las etiquetas HTML
 
-Las **etiquetas** pueden contener **N número de Atributos**, un **atributo** valores adicionales que configuran o modifican el elemento de nuestra etiqueta para cumplir diferentes criterios.
+Las **etiquetas** pueden contener **N número de Atributos**, los **atributos** son valores adicionales que configuran o modifican el elemento de nuestra etiqueta para cumplir diferentes criterios.
 
 Para poder representar un atributo en una etiqueta HTML se estructura de la siguiente manera.
 
