@@ -21,7 +21,7 @@ Todo nuestro sitio web esta compuesto de **etiquetas HTML**( elemento ), la form
 * **< APERTURA >** por medio del nombre de la etiqueta dentro de **<>**.
 * **< CIERRE >** por medio del nombre de la etiqueta dentro de **<>**, pero en este caso se agrega un **/** antes del nombre de la **etiqueta**.
 
-#### Atributos en las etiquetas HTML
+#### - Atributos en las etiquetas HTML
 
 Las **etiquetas** pueden contener **N número de Atributos**, los **atributos** son valores adicionales que configuran o modifican el elemento de nuestras etiquetas para cumplir diferentes criterios.
 
