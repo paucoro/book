@@ -4,4 +4,10 @@
 
 Esto es una guia para poder aprender los comandos basicos para manerar archivos en la terminal y los comandos basicos de Git.
 
-El contenido se está actualizando ...
+### HTML
+
+El **HTML** determina el contenido de tu página web.
+
+Estructurar un sitio web con HTML es parecido a un **árbol**, en donde se puede extender profundamente el contenido, en donde un elemento puede tener N número de hijos ( elementos dentro de el ).
+
+ 
