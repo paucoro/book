@@ -16,4 +16,4 @@ Todo nuestro sitio web esta compuesto de **etiquetas HTML**( elemento ), la form
 <NOMBRE_ETIQUETA></NOMBRE_ETIQUETA>
 ```
 
-:grey_exclamation: Donde podremos ver que una **etiqueta** en casi todos los casos siempre tiene **una apertura y un cierre**.
+:grey_exclamation: Donde podremos ver que una **etiqueta** en casi todos los casos siempre tiene **una apertura y un cierre** representada por el nombre de la etiqueta dentro de **<>** y por un **<>**, ademas de **/** y el nombre de la etiqueta para el cierre.
