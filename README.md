@@ -14,7 +14,7 @@
 
 **HTML** determina el contenido de tu página web.
 
-Estructurar un sitio web con HTML es parecido a un **árbol**, en donde se puede extender el contenido sin importar el nivel de profundidad, en donde un elemento puede tener N número de hijos ( elementos dentro de el ).
+Estructurar un sitio web con HTML es parecido a un **árbol genealogico**, en donde se puede extender el contenido sin importar el nivel de profundidad, en donde un elemento puede tener N número de hijos ( elementos dentro de el ).
 
 Todo nuestro sitio web esta compuesto por **etiquetas HTML**( elementos ), existen etiquetas con cierto valor que ayudan a la estructura de nuestro sitio y que este sea encontrado de una manera mas facil por los buscadores.
 
